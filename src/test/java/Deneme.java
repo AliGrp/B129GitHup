@@ -5,6 +5,10 @@ public class Deneme {
         System.out.println("merhaba");
         //git
         //-----------------------------
+
         //pokemon
+
+        //definasyon
+
     }
 }
