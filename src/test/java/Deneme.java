@@ -9,6 +9,7 @@ public class Deneme {
         //pokemon
 
         //definasyon
+        //githup
 
     }
 }
